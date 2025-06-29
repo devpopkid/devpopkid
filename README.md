@@ -1,5 +1,5 @@
 <img
- src="https://komarev.com/ghpvc/?username=popkid&color=brightgreen&style=plastic&label=%F0%9F%91%80+Profile+Views">
+ src="https://komarev.com/ghpvc/?username=devpopkid&color=brightgreen&style=plastic&label=%F0%9F%91%80+Profile+Views">
 </p>
 
 ![My card name](https://cardivo.vercel.app/api?name=Mr%20Popkid%20Tech%20&description=Hey%20You%20Welcome%20To%20My%20Profile%20&image=https://i.ibb.co/HtT3vjm/goku-gif-3.gif?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&&)
@@ -8,7 +8,7 @@
 ## 📊ＳＴＡＴＳ
 
 
-![Venocyber's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpopkid&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&show_icons=true)
+![Popkid's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpopkid&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&show_icons=true)
 
 <p align="center">
   <a href="https://github.com/devpopkid"><img src="https://github-readme-streak-stats.herokuapp.com?user=devpopkid&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /></a>
